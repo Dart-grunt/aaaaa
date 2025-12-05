@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-import lab1ref.product;
+import lab1ref.Product;
 
 // main stand-in
 public class lab1 {
